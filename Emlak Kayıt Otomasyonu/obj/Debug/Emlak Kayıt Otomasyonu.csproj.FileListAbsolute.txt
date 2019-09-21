@@ -1,0 +1,11 @@
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\bin\Debug\Emlak Kayıt Otomasyonu.exe.config
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\bin\Debug\Emlak Kayıt Otomasyonu.exe
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\bin\Debug\Emlak Kayıt Otomasyonu.pdb
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak Kayıt Otomasyonu.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak_Kayıt_Otomasyonu.Form1.resources
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak_Kayıt_Otomasyonu.Properties.Resources.resources
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak Kayıt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak Kayıt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak Kayıt Otomasyonu.exe
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak Kayıt Otomasyonu.pdb
+C:\Users\reela\source\repos\Emlak Kayıt Otomasyonu\Emlak Kayıt Otomasyonu\obj\Debug\Emlak_Kayıt_Otomasyonu.Form2.resources
